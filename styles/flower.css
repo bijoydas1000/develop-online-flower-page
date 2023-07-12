@@ -1,0 +1,42 @@
+/* common shared styles*/
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+ /* header related style */
+.header{
+    background-color: #f8d9e0 ;
+
+    
+}
+ .banner{
+    padding:30px 30px 30px 30px  ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+ }
+ .banner-content{
+    max-width: 500px;
+ }
+.banner-greeting{
+    font-size: 85px;
+    font-weight: 700;
+    margin-top: 5px;
+    
+ }
+ .btn-primary{
+    color: #ffffff;
+    border-radius: 8;
+    text-align: top right;
+    background-color: #E55473;
+    border: ;
+    ;
+ }
+ /* nav related styles */
+ nav{
+
+
+    
+
+ }
